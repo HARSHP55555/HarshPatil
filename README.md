@@ -1,2 +1,3 @@
 # HarshPatil
-This  is my first github repository
+This  is my first github repository.
+Author- Harsh Pati
